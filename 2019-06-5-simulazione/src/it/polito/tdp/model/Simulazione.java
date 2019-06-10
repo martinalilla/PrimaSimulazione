@@ -82,7 +82,7 @@ public class Simulazione {
 				}
 			}
 		}
-		double minuti =distanzaMinima/3600;
+		double minuti =distanzaMinima;
 		
 		switch (ev.getTipoEvento()) {
 		case CRIME:

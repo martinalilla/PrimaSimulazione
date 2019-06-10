@@ -40,7 +40,7 @@ public class Model {
 			 District d = new District(i);
 			 dao.calcolaCentro(d, anno);
 			 grafo.addVertex(d);
-			 
+			
 			 
 		 }
 		 
